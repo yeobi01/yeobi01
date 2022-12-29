@@ -1,4 +1,4 @@
-# Kim Sang Yeob 🐾
+# Kim Sang Yeob 🐾🐾
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeobi_01)](https://solved.ac/yeobi_01/)
 
 <!--
