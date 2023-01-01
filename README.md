@@ -1,5 +1,6 @@
 # 🐾 Kim Sang Yeob 🐾
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeobi_01)](https://solved.ac/yeobi_01/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### Hi there 👋
