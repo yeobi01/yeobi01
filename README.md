@@ -1,7 +1,8 @@
 # 🐾 Kim Sang Yeob 🐾
 
-Problem Solving
+## Problem Solving
 <hr>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeobi_01)](https://solved.ac/yeobi_01/)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeobi01&layout=compact)](https://github.com/yeobi01/github-readme-stats)
 
