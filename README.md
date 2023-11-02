@@ -44,12 +44,13 @@
 - 백준 온라인 저지 platinum 5<br/><br/>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeobi_01)](https://solved.ac/yeobi_01/)
 
+<!--
 ---
 
 <h3 align="left">📌 Github Stats </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeobi01&show_icons=true&theme=radical)<br/>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeobi01&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeobi01&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 ### Hi there 👋
