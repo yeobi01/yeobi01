@@ -1,7 +1,4 @@
 <h2 align="left">🐾 Sang Yeob Kim's Github 🐾</h2>
-안녕하세요. 소프트웨어 엔지니어 김상엽입니다.
-
----
 
 <h3 align="left">⚡️ Tech Stack </h3>
 <div align=left> 
