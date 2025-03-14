@@ -17,6 +17,6 @@
 - (2024.03 - present) Backend Developer [@System Consultant Group](https://scg.skku.ac.kr/)
 - (2023.04 - 2023.11) Frontend Developer [@Software Maestro  14th](https://www.swmaestro.org/sw/main/main.do)
 
-## Stats
+### ⚽️ Stats
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeobi_01)](https://solved.ac/yeobi_01/)
